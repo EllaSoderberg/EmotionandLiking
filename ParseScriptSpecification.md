@@ -1,7 +1,7 @@
 For each participant, there will be a csv with data recording the whole study process.
 We would like to have a collective csv, where each row describes the most important data for each participant. So each row will consist of every answer made to each stimuli.
 This document describes how to get the data, and where it should be placed or calculated.
-For reference, see example database.csv and exampleuserstudy.csv
+For reference, see the collected data, and check the example database we want in the end, https://docs.google.com/spreadsheets/d/1YJm1owTWUqmXWJ2kMbzWrHCWgvmr25IbNWkQI0zW1UE/edit#gid=714836629
 ## Personal ID
 Get: Either use open-data:s numbers, or just make up one here.\
 Set: As is.
