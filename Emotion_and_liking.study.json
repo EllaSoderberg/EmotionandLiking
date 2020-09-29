@@ -5402,8 +5402,8 @@
         ]
       },
       "scrollTop": true,
-      "submitButtonText": "Continue →",
-      "submitButtonPosition": "hidden",
+      "submitButtonText": "Download data",
+      "submitButtonPosition": "right",
       "files": {
         "rows": []
       },
