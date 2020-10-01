@@ -392,7 +392,7 @@
         ]
       },
       "title": "Perceiving 2",
-      "content": "<main class=\"content-horizontal-center content-vertical-center\">\r\n  <div>\r\n    <h2>How do you perceive it?</h2>\r\n    <img src=${\"https://storage.googleapis.com/study-bucket-2020/\" + this.parameters.file + \".png\"} class=\"image\"/>\r\n    <div class=\"button-row\">\r\n     <p class=\"info-text\">Calm</p>\r\n      <button\r\n        id=\"arousal-1\"\r\n        class=\"choice\"\r\n      >\r\n      <img src=\"https://storage.googleapis.com/study-bucket-2020/Arousal-1.svg\" />\r\n      </button>\r\n      <button\r\n        id=\"arousal-2\"\r\n        class=\"choice\"\r\n      >\r\n      <img src=\"https://storage.googleapis.com/study-bucket-2020/Arousal-2.svg\" />\r\n      </button>\r\n      <button\r\n        id=\"arousal-3\"\r\n        class=\"choice\"\r\n      >\r\n      <img src=\"https://storage.googleapis.com/study-bucket-2020/Arousal-3.svg\" />\r\n      </button>\r\n      <button\r\n        id=\"arousal-4\"\r\n        class=\"choice\"\r\n      >\r\n      <img src=\"https://storage.googleapis.com/study-bucket-2020/Arousal-4.svg\" />\r\n      <!--&nbsp;<br/><b>1</b><br/>&nbsp;<br/>-->\r\n      </button>\r\n      <button\r\n        id=\"arousal-5\"\r\n        class=\"choice\"\r\n      >\r\n      <img src=\"https://storage.googleapis.com/study-bucket-2020/Arousal-5.svg\" />\r\n      </button>\r\n      <p class=\"info-text\">Exciting</p>\r\n    </div>\r\n  </div>\r\n</main>\r\n<footer class=\"content-horizontal-center content-vertical-center\">\r\n  Please make your choice by clicking on one of the buttons.",
+      "content": "<main class=\"content-horizontal-center content-vertical-center\">\r\n  <div>\r\n    <h2>How do you perceive it?</h2>\r\n    <img src=${\"https://storage.googleapis.com/study-bucket-2020/\" + this.parameters.file + \".png\"} class=\"image\"/>\r\n    <div class=\"button-row\">\r\n      <button\r\n        id=\"arousal-1\"\r\n        class=\"choice\"\r\n      >\r\n      <img src=\"https://storage.googleapis.com/study-bucket-2020/Arousal-1.svg\" />\r\n      </button>\r\n      <button\r\n        id=\"arousal-2\"\r\n        class=\"choice\"\r\n      >\r\n      <img src=\"https://storage.googleapis.com/study-bucket-2020/Arousal-2.svg\" />\r\n      </button>\r\n      <button\r\n        id=\"arousal-3\"\r\n        class=\"choice\"\r\n      >\r\n      <img src=\"https://storage.googleapis.com/study-bucket-2020/Arousal-3.svg\" />\r\n      </button>\r\n      <button\r\n        id=\"arousal-4\"\r\n        class=\"choice\"\r\n      >\r\n      <img src=\"https://storage.googleapis.com/study-bucket-2020/Arousal-4.svg\" />\r\n      <!--&nbsp;<br/><b>1</b><br/>&nbsp;<br/>-->\r\n      </button>\r\n      <button\r\n        id=\"arousal-5\"\r\n        class=\"choice\"\r\n      >\r\n      <img src=\"https://storage.googleapis.com/study-bucket-2020/Arousal-5.svg\" />\r\n      </button>\r\n    </div>\r\n  </div>\r\n</main>\r\n<footer class=\"content-horizontal-center content-vertical-center\">\r\n  Please make your choice by clicking on one of the buttons.",
       "_tab": "Content"
     },
     "11": {
@@ -4341,7 +4341,7 @@
       },
       "title": "Block J visual stimuli",
       "_tab": "Content",
-      "_collapsed": true
+      "_collapsed": false
     },
     "140": {
       "id": "140",
